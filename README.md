@@ -1,0 +1,2 @@
+# Design-and-Simulation-of-4-stage-pipelined-32-bit-floating-point-adder
+The  mini-project  requires  the  student  to  design  an  unpipelined  half-precision floating-point adder and verify using the given test cases. The mini-project further requires the student to design a four-stage pipelined single-precision floating-point adder and verify using the given results. The adder is designed using Synopsys VCS.
